@@ -25,7 +25,7 @@
 	"dependencies": {
 		"chart.js": "2.9.3",
 		"flot": "0.8.0-alpha",
-		"jquery-creditcardvalidator": "1.0.0",
+		"jquery-creditcardvalidator": "1.2.0",
 		"jquery-validation": "^1.19.3",
 		"jquery.payment": "3.0.0",
 		"moment": "2.29.3",
